@@ -3,7 +3,7 @@ import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import Content from '../Components/Content'
 import Gallery from '../Components/Gallery'
-import Items from '../Components/items'
+import Items from '../Components/Items'
 import Contact from '../Components/Contact'
 import Footer from '../Components/Footer'
 
